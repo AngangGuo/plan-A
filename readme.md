@@ -1,4 +1,9 @@
 ## Bible Plan A
+Bible reading plan for Zone#5 starting from 2020-08-31 to 2021-8-29, 364 days in total.
+
+Each day we read 3 chapters from Old Testament to New Testament in book order, plus one chapter Psalm or Proverbs.
+
+Psalm 119 is the longest chapter in the Bible, we divide it into 6 parts. 
 
 ### 舊 約
 
